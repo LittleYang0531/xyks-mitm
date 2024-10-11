@@ -62,4 +62,4 @@ Proxy server listening at http://*:8080
 
 结果今天中午才发现直接在 response 里改试题数据就可以了。
 
-所以小猿口算的后台是做对发送的 response 和回收的 request 的校验的吗？气死我了，什么神仙操作。
+所以小猿口算的后台是没做对发送的 response 和回收的 request 的校验的吗？气死我了，什么神仙操作。
